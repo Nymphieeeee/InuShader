@@ -3,7 +3,7 @@
 
 ---
 
-**InuShader** is an open source lightweight Basis & VRChat compatible shader that turns scenes or meshes into raymarching. The UI makes the shader easy to use, and feature rich. Meaning the sky is the limit with this shader!
+**InuShader** is an open source lightweight Basis & VRChat compatible shader that turns scenes or meshes into raymarching or SDF. The UI makes the shader easy to use, and feature rich. Meaning the sky is the limit with this shader!
 
 ---
 <div align=center class=flex>
